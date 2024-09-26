@@ -1,5 +1,5 @@
 # DataAnalytics_Project-_Global_Superstore
-### In the first step, you imported the necessary libraries for data manipulation and analysis:
+### In the first step, imported the necessary libraries for data manipulation and analysis:
 import pandas as pd
 
 import numpy as np
